@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hello there!! 👋
+
+I'm a Data Science and AI enthusiast who likes to learn about new things and explore out of the 📦. 
+
+### ⚡ Domains:
+- Deep Learning
+- Data Science
+- Machine Learning
+- Computer Vision
 
 <!--
 **alisharifi2000/alisharifi2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
